@@ -1,4 +1,4 @@
-const live2d_path = "/live2d-widget/";
+const live2d_path = "/live2dx/";
 //const live2d_path = "./";
 
 $("<link>").attr({href: live2d_path + "waifu.css", rel: "stylesheet", type: "text/css"}).appendTo("head");
