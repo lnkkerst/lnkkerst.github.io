@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[hello world!]]></title>
-    <url>%2F2019%2F03%2F30%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[这是lnkkerst的博客中的第一篇文章123456#include &lt;cstdio&gt;int main()&#123; printf(&quot;hello world!&quot;); return 0;&#125;]]></content>
-  </entry>
-</search>
